@@ -19,6 +19,19 @@ AWS_SES_ACCESS_KEY_ID = os.environ.get('AWS_SES_ACCESS_KEY_ID')
 AWS_SES_SECRET_ACCESS_KEY = os.environ.get('AWS_SES_SECRET_ACCESS_KEY')
 EMAIL_BACKEND = 'django_ses.SESBackend'
 
+# セキュリティ関連設定
+# security.W004
+SECURE_HSTS_SECONDS = 31536000
+SECURE_HSTS_INCLUDE_SUBDOMAINS = True
+# security.W008
+SECURE_SSL_REDIRECT = True
+# security.W012
+SESSION_COOKIE_SECURE = True
+# security.W016
+CSRF_COOKIE_SECURE = True
+# security.W021
+SECURE_HSTS_PRELOAD = True
+
 # ロギング
 LOGGING = {
     'version': 1,

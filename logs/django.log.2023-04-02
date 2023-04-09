@@ -1,0 +1,253 @@
+2023-04-02 14:42:55,708	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/autoreload.py(Line:637)	Watching for file changes with StatReloader
+2023-04-02 14:43:37,028	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:161)	code 400, message Bad request syntax ("\x16\x03\x01\x00½\x01\x00\x00¹\x03\x03NÃÓ]+?^Øö}\x90dN\x8a\x05[¼\x15cÀ\x9a\x96±\x95NwûjXO0;\x00\x008À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+2023-04-02 14:43:37,029	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:142)	You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2023-04-02 14:43:37,295	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:161)	code 400, message Bad request syntax ("\x16\x03\x01\x00½\x01\x00\x00¹\x03\x03}³~\x99Eºÿû1\x9blj\x9a\x9b\x044\x89ð\x86Þ\x10¶XãµSZ?ä\x02¢¡\x00\x008À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+2023-04-02 14:43:37,295	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:142)	You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2023-04-02 14:43:37,308	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:161)	code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00½\x01\x00\x00¹\x03\x03Ôý±èyw\x93ñr\x11ObùQ\x15#äaV')
+2023-04-02 14:43:37,308	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:142)	You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2023-04-02 14:43:37,534	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:161)	code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00½\x01\x00\x00¹\x03\x03:2')
+2023-04-02 14:43:37,534	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:142)	You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2023-04-02 14:43:39,401	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:161)	code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00½\x01\x00\x00¹\x03\x03CW')
+2023-04-02 14:43:39,401	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:142)	You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2023-04-02 14:43:39,597	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:161)	code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00½\x01\x00\x00¹\x03\x03O\x98\x8b5\x8eú\x94V´g\x11mZ\x83[\x80|\x16\x80\x84\x06\x19øà{ÌIÜ½')
+2023-04-02 14:43:39,597	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:142)	You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2023-04-02 14:43:39,609	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:161)	code 400, message Bad request version ("d'ÁÁ\x02ñÿædË°\x00\x008À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+2023-04-02 14:43:39,609	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:142)	You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2023-04-02 14:43:39,957	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:161)	code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00½\x01\x00\x00¹\x03\x03úñ¯\x02V÷»dX\x99¬B£7\x80åo\x16H?«1Ý\x9a\x9c8N\x95õ\x9b')
+2023-04-02 14:43:39,957	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:142)	You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2023-04-02 14:47:01,714	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/autoreload.py(Line:637)	Watching for file changes with StatReloader
+2023-04-02 14:47:05,249	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:161)	code 400, message Bad request syntax ("\x16\x03\x01\x00½\x01\x00\x00¹\x03\x03ré$2h}81GLÅø\x02ÉGÃ\x88\x81o\x9b\x08c\\\x88!(4Ñ¥þ¬q\x00\x008À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+2023-04-02 14:47:05,249	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/servers/basehttp.py(Line:142)	You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2023-04-02 14:49:09,213	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/autoreload.py(Line:637)	Watching for file changes with StatReloader
+2023-04-02 14:56:34,404	[INFO]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/autoreload.py(Line:637)	Watching for file changes with StatReloader
+2023-04-02 17:00:09,210	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: 'privatediary-by-ru.com'. You may need to add 'privatediary-by-ru.com' to ALLOWED_HOSTS.
+2023-04-02 17:00:09,210	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 17:00:10,063	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: 'privatediary-by-ru.com'. You may need to add 'privatediary-by-ru.com' to ALLOWED_HOSTS.
+2023-04-02 17:00:10,064	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /favicon.ico
+2023-04-02 17:00:25,715	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: 'privatediary-by-ru.com'. You may need to add 'privatediary-by-ru.com' to ALLOWED_HOSTS.
+2023-04-02 17:00:25,715	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 17:00:26,113	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: 'privatediary-by-ru.com'. You may need to add 'privatediary-by-ru.com' to ALLOWED_HOSTS.
+2023-04-02 17:00:26,113	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /favicon.ico
+2023-04-02 17:00:28,898	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: 'privatediary-by-ru.com'. You may need to add 'privatediary-by-ru.com' to ALLOWED_HOSTS.
+2023-04-02 17:00:28,899	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 17:00:29,247	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: 'privatediary-by-ru.com'. You may need to add 'privatediary-by-ru.com' to ALLOWED_HOSTS.
+2023-04-02 17:00:29,248	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /favicon.ico
+2023-04-02 17:00:53,079	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: 'privatediary-by-ru.com'. You may need to add 'privatediary-by-ru.com' to ALLOWED_HOSTS.
+2023-04-02 17:00:53,080	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 17:00:53,435	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: 'privatediary-by-ru.com'. You may need to add 'privatediary-by-ru.com' to ALLOWED_HOSTS.
+2023-04-02 17:00:53,436	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /favicon.ico
+2023-04-02 17:18:15,736	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 17:18:15,737	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 17:29:10,800	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /telescope/requests
+2023-04-02 17:29:10,803	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /.vscode/sftp.json
+2023-04-02 17:29:10,805	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /.git/config
+2023-04-02 17:29:10,807	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /s/336313e2238313e2331323e28313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+2023-04-02 17:29:10,810	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /debug/default/view
+2023-04-02 17:29:10,814	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+2023-04-02 17:29:10,816	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /.DS_Store
+2023-04-02 17:29:10,819	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /server-status
+2023-04-02 17:29:10,821	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /.env
+2023-04-02 17:29:10,823	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /info.php
+2023-04-02 17:29:10,991	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /config.json
+2023-04-02 17:29:10,995	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /v2/_catalog
+2023-04-02 17:29:10,998	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /api/search
+2023-04-02 17:29:11,000	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /login.action
+2023-04-02 17:29:11,003	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /about
+2023-04-02 17:32:57,957	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 17:32:57,957	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.env
+2023-04-02 17:33:01,221	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 17:33:01,221	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 17:38:22,800	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 17:38:22,801	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.env
+2023-04-02 17:38:24,544	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 17:38:24,545	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 18:09:09,104	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /control-ru
+2023-04-02 18:09:27,240	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /favicon.ico
+2023-04-02 18:28:56,881	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 18:28:56,882	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 18:34:16,178	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /apple-touch-icon-120x120-precomposed.png
+2023-04-02 18:34:16,385	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /apple-touch-icon-120x120.png
+2023-04-02 18:34:16,577	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /apple-touch-icon-precomposed.png
+2023-04-02 18:34:16,834	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /apple-touch-icon.png
+2023-04-02 18:35:16,299	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /apple-touch-icon-precomposed.png
+2023-04-02 18:35:16,940	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /favicon.ico
+2023-04-02 18:35:17,032	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /apple-touch-icon.png
+2023-04-02 19:46:53,148	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /favicon.ico
+2023-04-02 20:38:39,349	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:38:39,349	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.git/HEAD
+2023-04-02 20:42:14,530	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:42:14,530	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 20:42:32,686	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:42:32,686	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /robots.txt
+2023-04-02 20:42:33,581	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:42:33,581	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /sitemap.xml
+2023-04-02 20:42:34,463	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:42:34,464	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.well-known/security.txt
+2023-04-02 20:42:36,522	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:42:36,522	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /favicon.ico
+2023-04-02 20:45:27,562	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:45:27,562	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 20:46:13,054	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:46:13,054	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /owa/
+2023-04-02 20:46:13,348	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:46:13,348	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /autodiscover/autodiscover.json
+2023-04-02 20:46:33,017	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:46:33,018	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 20:46:33,382	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:46:33,382	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 20:46:33,746	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:46:33,747	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /admin/
+2023-04-02 20:46:33,986	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 20:46:33,986	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /solr/
+2023-04-02 21:10:47,426	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 21:10:47,427	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-02 21:31:44,802	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /accounts/signup/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/decorators/debug.py", line 89, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/views.py", line 230, in dispatch
+    return super(SignupView, self).dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/views.py", line 74, in dispatch
+    response = super(RedirectAuthenticatedUserMixin, self).dispatch(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/views.py", line 204, in dispatch
+    return super(CloseableSignupMixin, self).dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/views.py", line 102, in post
+    response = self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/views.py", line 248, in form_valid
+    return complete_signup(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/utils.py", line 209, in complete_signup
+    return perform_login(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/utils.py", line 175, in perform_login
+    send_email_confirmation(request, user, signup=signup, email=email)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/utils.py", line 346, in send_email_confirmation
+    email_address.send_confirmation(request, signup=signup)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/models.py", line 62, in send_confirmation
+    confirmation.send(request, signup=signup)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/models.py", line 169, in send
+    get_adapter(request).send_confirmation_mail(request, self, signup)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/adapter.py", line 464, in send_confirmation_mail
+    self.send_mail(email_template, emailconfirmation.email_address.email, ctx)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/allauth/account/adapter.py", line 136, in send_mail
+    msg.send()
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/mail/message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django_ses/__init__.py", line 204, in send_messages
+    response = self.connection.send_raw_email(**kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/botocore/client.py", line 388, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/botocore/client.py", line 708, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.MessageRejected: An error occurred (MessageRejected) when calling the SendRawEmail operation: Email address is not verified. The following identities failed the check in region US-EAST-1: chitochi_toto.86@i.softbank.jp
+2023-04-02 21:32:24,224	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /apple-touch-icon-120x120-precomposed.png
+2023-04-02 21:32:24,437	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /apple-touch-icon-120x120.png
+2023-04-02 21:32:24,606	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /apple-touch-icon-precomposed.png
+2023-04-02 21:32:24,772	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /apple-touch-icon.png
+2023-04-02 21:32:26,138	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200
+2023-04-02 21:32:26,917	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /.well-known/change-password
+2023-04-02 23:24:01,073	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-02 23:24:01,073	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /actuator/health
+2023-04-03 00:24:55,376	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 00:24:55,376	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 01:35:20,564	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 01:35:20,564	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 03:04:35,531	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 03:04:35,531	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 05:36:44,542	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /Public/home/js/check.js
+2023-04-03 06:45:01,266	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 06:45:01,267	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /owa/auth/logon.aspx
+2023-04-03 07:55:30,847	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 07:55:30,847	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 08:57:19,830	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 08:57:19,831	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /explore
+2023-04-03 10:33:53,577	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /.env
+2023-04-03 10:48:46,468	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /.env
+2023-04-03 11:22:41,930	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 11:22:41,931	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 11:36:20,235	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /.env
+2023-04-03 11:36:20,696	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /wp-content/
+2023-04-03 11:53:39,872	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 11:53:39,872	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 11:55:29,783	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 11:55:29,783	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.git/HEAD
+2023-04-03 12:08:01,635	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 12:08:01,636	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.git/HEAD
+2023-04-03 12:17:46,515	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 12:17:46,515	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.env
+2023-04-03 12:17:46,866	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 12:17:46,866	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 12:17:47,785	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 12:17:47,785	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+2023-04-03 12:58:51,906	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /robots.txt
+2023-04-03 13:04:43,666	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /robots.txt
+2023-04-03 13:14:11,218	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163:443'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 13:14:11,218	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 13:14:11,309	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 13:14:11,309	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 13:31:54,960	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /robots.txt
+2023-04-03 13:37:04,253	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 13:37:04,253	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 13:56:48,125	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //.env
+2023-04-03 14:06:24,689	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163:443'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 14:06:24,689	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 14:14:55,114	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /favicon.ico
+2023-04-03 14:14:57,177	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /robots.txt
+2023-04-03 14:14:57,317	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /sitemap.xml
+2023-04-03 14:17:38,576	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 14:17:38,577	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.env
+2023-04-03 14:17:39,063	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 14:17:39,063	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 14:17:39,707	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 14:17:39,708	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+2023-04-03 14:32:50,279	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163:443'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 14:32:50,280	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 15:47:29,904	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 15:47:29,904	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 15:47:29,970	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 15:47:29,970	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 15:48:12,355	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 15:48:12,356	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 15:48:12,382	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 15:48:12,382	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 17:01:21,053	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /robots.txt
+2023-04-03 17:01:21,807	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /humans.txt
+2023-04-03 17:01:22,557	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /ads.txt
+2023-04-03 17:21:10,312	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /favicon.ico
+2023-04-03 17:24:19,776	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /favicon.ico
+2023-04-03 17:25:15,963	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /favicon.ico
+2023-04-03 17:29:37,129	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /.env
+2023-04-03 17:30:19,524	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /index.html
+2023-04-03 17:31:10,443	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 17:31:10,444	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 17:43:16,012	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 17:43:16,012	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 17:53:18,708	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 17:53:18,709	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 17:53:25,388	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 17:53:25,389	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /favicon.ico
+2023-04-03 17:53:28,977	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 17:53:28,978	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /robots.txt
+2023-04-03 17:53:30,655	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 17:53:30,655	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.well-known/security.txt
+2023-04-03 18:05:31,226	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 18:05:31,227	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-04-03 18:24:24,937	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-04-03 18:24:24,937	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
