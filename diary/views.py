@@ -1,4 +1,6 @@
 import logging
+import openai
+import os
 
 from django.contrib import messages
 from django.contrib.auth.mixins import LoginRequiredMixin, UserPassesTestMixin
@@ -6,8 +8,9 @@ from django.urls import reverse_lazy
 from django.views import generic
 from django.shortcuts import get_object_or_404
 
-from .forms import InquiryForm, DiaryCreateForm
+from .forms import InquiryForm, DiaryCreateForm, DiaryAiForm
 from .models import Diary
+from django.conf import settings
 
 
 logger = logging.getLogger(__name__)
@@ -44,6 +47,7 @@ class DiaryListView(LoginRequiredMixin, generic.ListView):
     template_name = 'diary_list.html'
     paginate_by = 2
 
+
     def get_queryset(self):
         diaries = Diary.objects.filter(user=self.request.user).order_by('-created_at')
         return diaries
@@ -58,15 +62,29 @@ class DiaryCreateView(LoginRequiredMixin, generic.CreateView):
     form_class = DiaryCreateForm
     success_url = reverse_lazy('diary:diary_list')
 
+
+    def get_initial(self):
+        initial = super().get_initial()
+        content = self.request.session.get('content')
+        title = self.request.session.get('title')
+        if content is not None:
+            initial['content'] = content
+            initial['title'] = title
+        return initial
+
     def form_valid(self, form):
         diary = form.save(commit=False)
         diary.user = self.request.user
         diary.save()
         messages.success(self.request, '日記を作成しました。')
+        self.request.session.pop('content', None)
+        self.request.session.pop('title', None)
         return super().form_valid(form)
 
     def form_invalid(self, form):
         messages.error(self.request, "日記の作成に失敗しました。")
+        self.request.session.pop('content', None)
+        self.request.session.pop('title', None)
         return super().form_invalid(form)
 
 class DiaryUpdateView(LoginRequiredMixin, OnlyYouMixin, generic.UpdateView):
@@ -93,6 +111,86 @@ class DiaryDeleteView(LoginRequiredMixin, OnlyYouMixin, generic.DeleteView):
     def delete(self, request, *args, **kwargs):
         messages.success(self.request, "日記を削除しました。")
         return super().delete(request, *args, **kwargs)
+
+class DiaryAiCreateView(LoginRequiredMixin, generic.FormView):
+    model = Diary
+    template_name = 'diary_ai.html'
+    form_class = DiaryAiForm
+    success_url = reverse_lazy('diary:diary_create')
+
+    def form_valid(self, form):
+
+        api_key = form.cleaned_data['api_key']
+        event_1 = form.cleaned_data['event1']
+        event_2 = form.cleaned_data['event2']
+        event_3 = form.cleaned_data['event3']
+        event_4 = form.cleaned_data['event4']
+        event_5 = form.cleaned_data['event5']
+
+
+        if api_key == os.environ.get('SECRET_WORD'):
+            openai.api_key = os.environ.get('API_KEY')
+        else:
+            openai.api_key = api_key
+
+        # ChatGPT
+        response_content = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "与えられた文章をまとめて日記を作成してください"
+                },
+                {
+                    "role": "user",
+                    "content": event_1
+                },
+                {
+                    "role": "user",
+                    "content": event_2
+                },
+                {
+                    "role": "user",
+                    "content": event_3
+                },
+                {
+                    "role": "user",
+                    "content": event_4
+                },
+                {
+                    "role": "user",
+                    "content": event_5
+                },
+            ],
+        )
+        content = response_content["choices"][0]["message"]["content"]
+
+        response_title = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "文章のタイトルを生成してください"
+                },
+                {
+                    "role": "user",
+                    "content": content
+                },
+            ],
+        )
+        title = response_title["choices"][0]["message"]["content"]
+
+        self.request.session['content'] = content
+        self.request.session['title'] = title
+
+        messages.success(self.request, 'AIで生成しました')
+        return super().form_valid(form)
+
+    def form_invalid(self, form):
+        messages.error(self.request, "生成に失敗しました")
+        return super().form_invalid(form)
+
+
 
 
 

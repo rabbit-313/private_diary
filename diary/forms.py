@@ -55,3 +55,14 @@ class DiaryCreateForm(forms.ModelForm):
         super().__init__(*args, **kwargs)
         for field in self.fields.values():
             field.widget.attrs['class'] = 'form-control'
+
+class DiaryAiForm(forms.ModelForm):
+    class Meta:
+        model = Diary
+        fields = ('api_key', 'event1', 'event2', 'event3', 'event4', 'event5',)
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        for field in self.fields.values():
+            field.widget.attrs['class'] = 'form-control'
+
