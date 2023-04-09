@@ -1,9 +1,13 @@
 {% extends 'base.html' %}
 {% load static %}
 
-{% block title %}日記作成 | Private Diary{% endblock %}
+{% block title %}日記AI作成 | Private Diary{% endblock %}
 
 {% block active_diary_list %}active{% endblock %}
+
+<h1> 今日あった出来事を箇条書きで書いてください</h1>
+<h2> AIが自動で日記を生成します </h2>
+
 
 {% block contents %}
 <div class="container my-div-style">
@@ -13,9 +17,10 @@
             <table class="table">
                 {{ form.as_table }}
             </table>
-
             <button class="btn btn-primary" type="submit">作成</button>
         </form>
     </div>
 </div>
+
+{{ chat_results }}
 {% endblock %}
