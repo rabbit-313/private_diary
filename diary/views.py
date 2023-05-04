@@ -70,6 +70,8 @@ class DiaryCreateView(LoginRequiredMixin, generic.CreateView):
         if content is not None:
             initial['content'] = content
             initial['title'] = title
+        self.request.session.pop('content', None)
+        self.request.session.pop('title', None)
         return initial
 
     def form_valid(self, form):
@@ -77,14 +79,10 @@ class DiaryCreateView(LoginRequiredMixin, generic.CreateView):
         diary.user = self.request.user
         diary.save()
         messages.success(self.request, '日記を作成しました。')
-        self.request.session.pop('content', None)
-        self.request.session.pop('title', None)
         return super().form_valid(form)
 
     def form_invalid(self, form):
         messages.error(self.request, "日記の作成に失敗しました。")
-        self.request.session.pop('content', None)
-        self.request.session.pop('title', None)
         return super().form_invalid(form)
 
 class DiaryUpdateView(LoginRequiredMixin, OnlyYouMixin, generic.UpdateView):
@@ -121,11 +119,12 @@ class DiaryAiCreateView(LoginRequiredMixin, generic.FormView):
     def form_valid(self, form):
 
         api_key = form.cleaned_data['api_key']
-        event_1 = form.cleaned_data['event1']
-        event_2 = form.cleaned_data['event2']
-        event_3 = form.cleaned_data['event3']
-        event_4 = form.cleaned_data['event4']
-        event_5 = form.cleaned_data['event5']
+        event = form.cleaned_data['event']
+        # event_1 = form.cleaned_data['event1']
+        # event_2 = form.cleaned_data['event2']
+        # event_3 = form.cleaned_data['event3']
+        # event_4 = form.cleaned_data['event4']
+        # event_5 = form.cleaned_data['event5']
 
 
         if api_key == os.environ.get('SECRET_WORD'):
@@ -133,34 +132,35 @@ class DiaryAiCreateView(LoginRequiredMixin, generic.FormView):
         else:
             openai.api_key = api_key
 
-        # ChatGPT
+        #ChatGPT
         response_content = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages=[
                 {
                     "role": "system",
-                    "content": "与えられた文章をまとめて日記を作成してください"
+                    "content": "箇条書きで与えられた文章から日記を作成してください"
                 },
                 {
                     "role": "user",
-                    "content": event_1
+                    "content": event
                 },
-                {
-                    "role": "user",
-                    "content": event_2
-                },
-                {
-                    "role": "user",
-                    "content": event_3
-                },
-                {
-                    "role": "user",
-                    "content": event_4
-                },
-                {
-                    "role": "user",
-                    "content": event_5
-                },
+                # {
+                #     "role": "user",
+                #     "content": event_2
+                # },
+                # {
+                #     "role": "user",
+                #     "content": event_3
+                # },
+                # {
+                #     "role": "user",
+                #     "content": event_4
+                # },
+                # {
+                #     "role": "user",
+                #     "content": event_5
+                # },
+    
             ],
         )
         content = response_content["choices"][0]["message"]["content"]

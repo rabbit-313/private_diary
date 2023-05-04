@@ -5,13 +5,14 @@
 
 {% block active_diary_list %}active{% endblock %}
 
-<h1> 今日あった出来事を箇条書きで書いてください</h1>
-<h2> AIが自動で日記を生成します </h2>
+
 
 
 {% block contents %}
 <div class="container my-div-style">
     <div class="row">
+        <h1> 今日あった出来事を箇条書きで書いてください</h1>
+        <h2> AIが自動で日記を生成します </h2>
         <form method="POST" enctype='multipart/form-data'>
             {% csrf_token %}
             <table class="table">
