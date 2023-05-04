@@ -1,1 +1,1 @@
-# Djangoを用いたアプリ開発
+# DjangoWebアプリ開発
