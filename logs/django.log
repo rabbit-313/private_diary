@@ -136,3 +136,167 @@
 2023-05-04 09:36:22,585	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.env
 2023-05-04 09:36:22,947	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
 2023-05-04 09:36:22,947	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-05-04 10:15:55,906	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-ai/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 136, in form_valid
+    response_content = openai.ChatCompletion.create(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 226, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 620, in _interpret_response
+    self._interpret_response_line(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 683, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.AuthenticationError: Incorrect API key provided: sk-iKAVA***************************************M4Ol. You can find your API key at https://platform.openai.com/account/api-keys.
+2023-05-04 10:16:07,747	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-ai/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 136, in form_valid
+    response_content = openai.ChatCompletion.create(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 226, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 620, in _interpret_response
+    self._interpret_response_line(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 683, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.AuthenticationError: Incorrect API key provided: sk-iKAVA***************************************M4Ol. You can find your API key at https://platform.openai.com/account/api-keys.
+2023-05-04 10:16:25,333	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-ai/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 136, in form_valid
+    response_content = openai.ChatCompletion.create(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 226, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 620, in _interpret_response
+    self._interpret_response_line(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 683, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.AuthenticationError: Incorrect API key provided: sk-iKAVA***************************************M4Ol. You can find your API key at https://platform.openai.com/account/api-keys.
+2023-05-04 10:16:46,296	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163:443'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-05-04 10:16:46,297	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-05-04 10:16:50,232	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-ai/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 136, in form_valid
+    response_content = openai.ChatCompletion.create(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 226, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 620, in _interpret_response
+    self._interpret_response_line(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 683, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.AuthenticationError: Incorrect API key provided: sk-iKAVA***************************************M4Ol. You can find your API key at https://platform.openai.com/account/api-keys.
+2023-05-04 10:18:24,250	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-ai/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 136, in form_valid
+    response_content = openai.ChatCompletion.create(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 226, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 620, in _interpret_response
+    self._interpret_response_line(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 683, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.AuthenticationError: Incorrect API key provided: sk-iKAVA***************************************M4Ol. You can find your API key at https://platform.openai.com/account/api-keys.
+2023-05-04 10:23:19,757	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-ai/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 136, in form_valid
+    response_content = openai.ChatCompletion.create(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 226, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 620, in _interpret_response
+    self._interpret_response_line(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 683, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.AuthenticationError: Incorrect API key provided: sk-iKAVA***************************************M4Ol. You can find your API key at https://platform.openai.com/account/api-keys.
