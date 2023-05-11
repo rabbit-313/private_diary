@@ -119,7 +119,7 @@ class DiaryAiCreateView(LoginRequiredMixin, generic.FormView):
     def form_valid(self, form):
 
         api_key = form.cleaned_data['api_key']
-        event_1 = form.cleaned_data['event1']
+        event_1 = form.cleaned_data['event']
         # event_2 = form.cleaned_data['event2']
         # event_3 = form.cleaned_data['event3']
         # event_4 = form.cleaned_data['event4']
