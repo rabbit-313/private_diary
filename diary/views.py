@@ -6,7 +6,7 @@ from django.contrib import messages
 from django.contrib.auth.mixins import LoginRequiredMixin, UserPassesTestMixin
 from django.urls import reverse_lazy
 from django.views import generic
-from django.shortcuts import get_object_or_404
+from django.shortcuts import get_object_or_404, render
 
 from .forms import InquiryForm, DiaryCreateForm, DiaryAiForm
 from .models import Diary
@@ -119,8 +119,7 @@ class DiaryAiCreateView(LoginRequiredMixin, generic.FormView):
     def form_valid(self, form):
 
         api_key = form.cleaned_data['api_key']
-        event = form.cleaned_data['event']
-        # event_1 = form.cleaned_data['event1']
+        event_1 = form.cleaned_data['event1']
         # event_2 = form.cleaned_data['event2']
         # event_3 = form.cleaned_data['event3']
         # event_4 = form.cleaned_data['event4']
@@ -129,8 +128,8 @@ class DiaryAiCreateView(LoginRequiredMixin, generic.FormView):
 
         if api_key == os.environ.get('SECRET_WORD'):
             openai.api_key = os.environ.get('API_KEY')
-        else:
-            openai.api_key = api_key
+        # else:
+        #     openai.api_key = api_key
 
         #ChatGPT
         response_content = openai.ChatCompletion.create(
@@ -142,7 +141,7 @@ class DiaryAiCreateView(LoginRequiredMixin, generic.FormView):
                 },
                 {
                     "role": "user",
-                    "content": event
+                    "content": event_1
                 },
                 # {
                 #     "role": "user",
@@ -160,7 +159,6 @@ class DiaryAiCreateView(LoginRequiredMixin, generic.FormView):
                 #     "role": "user",
                 #     "content": event_5
                 # },
-    
             ],
         )
         content = response_content["choices"][0]["message"]["content"]
@@ -183,9 +181,14 @@ class DiaryAiCreateView(LoginRequiredMixin, generic.FormView):
         self.request.session['content'] = content
         self.request.session['title'] = title
 
-        messages.success(self.request, 'AIで生成しました')
-        return super().form_valid(form)
+        # form = DiaryCreateForm(initial = {
+        #     'title': title,
+        #     'content': content,
+        # })
+        # form.initial['title'] = title
+        # form.initial['content'] = content
 
+        return super().form_valid(form)
     def form_invalid(self, form):
         messages.error(self.request, "生成に失敗しました")
         return super().form_invalid(form)
