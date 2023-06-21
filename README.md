@@ -1,1 +1,0 @@
-# DjangoWebアプリ開発
