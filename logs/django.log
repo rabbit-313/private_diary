@@ -125,3 +125,645 @@
 2023-06-26 21:57:43,684	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
 2023-06-26 21:57:43,685	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
 2023-06-26 22:00:45,544	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /wp-content/plugins/bookit/readme.txt
+2023-06-26 23:39:06,033	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-26 23:39:06,034	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.env
+2023-06-26 23:39:06,422	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-26 23:39:06,423	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 00:56:29,713	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 00:56:29,714	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /favicon.ico
+2023-06-27 02:40:54,656	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 02:40:54,657	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /autodiscover/autodiscover.json
+2023-06-27 02:52:20,250	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 02:52:20,251	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.env
+2023-06-27 03:36:22,939	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 03:36:22,940	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 03:36:53,064	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 03:36:53,064	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /dns-query
+2023-06-27 03:46:08,070	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 03:46:08,071	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 03:46:08,132	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 03:46:08,132	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 04:00:46,147	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 04:00:46,148	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /remote/login
+2023-06-27 04:45:47,420	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163:443'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 04:45:47,420	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 05:17:31,977	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 05:17:31,977	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.env
+2023-06-27 05:17:32,512	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 05:17:32,513	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 05:43:21,928	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 05:43:21,928	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 05:43:49,346	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /robots.txt
+2023-06-27 06:29:36,792	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 06:29:36,793	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /remote/logincheck
+2023-06-27 06:33:28,821	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 06:33:28,821	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /favicon.ico
+2023-06-27 06:34:50,638	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 06:34:50,638	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 06:47:05,878	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 06:47:05,878	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 06:48:19,819	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //wp-includes/wlwmanifest.xml
+2023-06-27 06:48:20,105	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //xmlrpc.php
+2023-06-27 06:48:21,636	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //blog/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:21,890	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //web/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:22,143	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //wordpress/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:22,399	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //website/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:22,707	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //wp/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:22,982	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //news/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:23,235	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //2020/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:23,486	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //2019/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:23,792	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //shop/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:26,255	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //wp1/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:26,520	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //test/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:26,775	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //wp2/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:27,027	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //site/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:27,282	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //cms/wp-includes/wlwmanifest.xml
+2023-06-27 06:48:27,555	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //sito/wp-includes/wlwmanifest.xml
+2023-06-27 07:27:07,581	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 07:27:07,582	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 07:27:26,973	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 07:27:26,973	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /favicon.ico
+2023-06-27 07:27:28,930	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 07:27:28,930	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /robots.txt
+2023-06-27 07:27:30,585	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 07:27:30,586	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /sitemap.xml
+2023-06-27 07:42:32,562	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 07:42:32,562	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.env
+2023-06-27 07:42:33,297	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 07:42:33,297	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 09:30:54,608	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //wp-includes/wlwmanifest.xml
+2023-06-27 09:30:54,842	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //xmlrpc.php
+2023-06-27 09:30:55,351	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //blog/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:55,600	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //web/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:55,835	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //wordpress/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:56,069	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //website/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:56,303	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //wp/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:56,537	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //news/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:56,771	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //2018/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:57,005	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //2019/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:57,239	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //shop/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:57,492	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //wp1/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:57,726	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //test/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:58,191	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //wp2/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:58,425	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //site/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:58,659	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //cms/wp-includes/wlwmanifest.xml
+2023-06-27 09:30:58,893	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: //sito/wp-includes/wlwmanifest.xml
+2023-06-27 10:44:05,021	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 10:44:05,021	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 10:45:02,785	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 10:45:02,785	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 10:48:49,836	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163:443'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 10:48:49,836	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 11:20:34,740	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163:443'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 11:20:34,740	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 11:24:00,878	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 11:24:00,878	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 11:49:29,073	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-ai/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 135, in form_valid
+    response_content = openai.ChatCompletion.create(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 226, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 620, in _interpret_response
+    self._interpret_response_line(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 663, in _interpret_response_line
+    raise error.ServiceUnavailableError(
+openai.error.ServiceUnavailableError: The server is overloaded or not ready yet.
+2023-06-27 11:50:18,830	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-ai/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 166, in form_valid
+    response_title = openai.ChatCompletion.create(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 226, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 620, in _interpret_response
+    self._interpret_response_line(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/openai/api_requestor.py", line 663, in _interpret_response_line
+    raise error.ServiceUnavailableError(
+openai.error.ServiceUnavailableError: The server is overloaded or not ready yet.
+2023-06-27 11:51:45,887	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-create/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(23, 「犬と過ごした充実した一日」, 今日はとても楽しい一日だった。朝早くから犬..., , , , 2023-06-27 02:51:45.878955+00, 2023-06-27 02:51:45.878972+00, 14, null, , null, null, null, null, null)を含みます
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 172, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 80, in form_valid
+    diary.save()
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 763, in save_base
+    updated = self._save_table(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 906, in _do_insert
+    return manager._insert(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/sql/compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(23, 「犬と過ごした充実した一日」, 今日はとても楽しい一日だった。朝早くから犬..., , , , 2023-06-27 02:51:45.878955+00, 2023-06-27 02:51:45.878972+00, 14, null, , null, null, null, null, null)を含みます
+
+2023-06-27 11:51:51,039	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-create/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(24, 「犬と過ごした充実した一日」, 今日はとても楽しい一日だった。朝早くから犬..., , , , 2023-06-27 02:51:51.037528+00, 2023-06-27 02:51:51.037546+00, 14, null, , null, null, null, null, null)を含みます
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 172, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 80, in form_valid
+    diary.save()
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 763, in save_base
+    updated = self._save_table(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 906, in _do_insert
+    return manager._insert(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/sql/compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(24, 「犬と過ごした充実した一日」, 今日はとても楽しい一日だった。朝早くから犬..., , , , 2023-06-27 02:51:51.037528+00, 2023-06-27 02:51:51.037546+00, 14, null, , null, null, null, null, null)を含みます
+
+2023-06-27 11:51:54,321	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-create/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(25, 「犬と過ごした充実した一日」, 今日はとても楽しい一日だった。朝早くから犬..., , , , 2023-06-27 02:51:54.319729+00, 2023-06-27 02:51:54.319747+00, 14, null, , null, null, null, null, null)を含みます
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 172, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 80, in form_valid
+    diary.save()
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 763, in save_base
+    updated = self._save_table(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 906, in _do_insert
+    return manager._insert(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/sql/compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(25, 「犬と過ごした充実した一日」, 今日はとても楽しい一日だった。朝早くから犬..., , , , 2023-06-27 02:51:54.319729+00, 2023-06-27 02:51:54.319747+00, 14, null, , null, null, null, null, null)を含みます
+
+2023-06-27 11:52:03,241	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-create/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(26, fasdfasd, fasd, , , , 2023-06-27 02:52:03.239646+00, 2023-06-27 02:52:03.239666+00, 14, null, , null, null, null, null, null)を含みます
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 172, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 80, in form_valid
+    diary.save()
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 763, in save_base
+    updated = self._save_table(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 906, in _do_insert
+    return manager._insert(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/sql/compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(26, fasdfasd, fasd, , , , 2023-06-27 02:52:03.239646+00, 2023-06-27 02:52:03.239666+00, 14, null, , null, null, null, null, null)を含みます
+
+2023-06-27 11:52:54,592	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-create/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(27, sdf, sadf, , , , 2023-06-27 02:52:54.589668+00, 2023-06-27 02:52:54.589685+00, 14, null, , null, null, null, null, null)を含みます
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 172, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 80, in form_valid
+    diary.save()
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 763, in save_base
+    updated = self._save_table(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 906, in _do_insert
+    return manager._insert(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/sql/compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(27, sdf, sadf, , , , 2023-06-27 02:52:54.589668+00, 2023-06-27 02:52:54.589685+00, 14, null, , null, null, null, null, null)を含みます
+
+2023-06-27 11:54:07,491	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-create/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(28, sdf, sadf, , , , 2023-06-27 02:54:07.489464+00, 2023-06-27 02:54:07.489482+00, 14, null, , null, null, null, null, null)を含みます
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 172, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 80, in form_valid
+    diary.save()
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 763, in save_base
+    updated = self._save_table(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 906, in _do_insert
+    return manager._insert(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/sql/compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(28, sdf, sadf, , , , 2023-06-27 02:54:07.489464+00, 2023-06-27 02:54:07.489482+00, 14, null, , null, null, null, null, null)を含みます
+
+2023-06-27 11:54:52,092	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-create/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(29, asdf, sdf, , , , 2023-06-27 02:54:52.090362+00, 2023-06-27 02:54:52.09038+00, 14, null, , null, null, null, null, null)を含みます
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 172, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 80, in form_valid
+    diary.save()
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 763, in save_base
+    updated = self._save_table(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 906, in _do_insert
+    return manager._insert(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/sql/compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(29, asdf, sdf, , , , 2023-06-27 02:54:52.090362+00, 2023-06-27 02:54:52.09038+00, 14, null, , null, null, null, null, null)を含みます
+
+2023-06-27 11:57:25,784	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-create/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(30, s, s, kuma.jpeg, , , 2023-06-27 02:57:25.782208+00, 2023-06-27 02:57:25.782233+00, 14, null, , null, null, null, null, null)を含みます
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 172, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 80, in form_valid
+    diary.save()
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 763, in save_base
+    updated = self._save_table(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 906, in _do_insert
+    return manager._insert(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/sql/compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(30, s, s, kuma.jpeg, , , 2023-06-27 02:57:25.782208+00, 2023-06-27 02:57:25.782233+00, 14, null, , null, null, null, null, null)を含みます
+
+2023-06-27 12:02:51,019	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Internal Server Error: /diary-create/
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(31, sd, asd, , , , 2023-06-27 03:02:51.017945+00, 2023-06-27 03:02:51.017964+00, 14, null, , null)を含みます
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 172, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/home/app_admin/venv_private_diary/private_diary/diary/views.py", line 80, in form_valid
+    diary.save()
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 763, in save_base
+    updated = self._save_table(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/base.py", line 906, in _do_insert
+    return manager._insert(
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/models/sql/compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: リレーション"diary_diary"の列"event"のNULL値がが非NULL制約に違反しています
+DETAIL:  失敗した行は(31, sd, asd, , , , 2023-06-27 03:02:51.017945+00, 2023-06-27 03:02:51.017964+00, 14, null, , null)を含みます
+
+2023-06-27 12:16:29,753	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 12:16:29,754	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /
+2023-06-27 12:17:01,266	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /favicon.ico
+2023-06-27 12:32:16,310	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /nginx-logo.png
+2023-06-27 12:32:16,319	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Not Found: /poweredby.png
+2023-06-27 12:52:06,705	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 12:52:06,706	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /.env
+2023-06-27 12:52:07,190	[ERROR]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/core/handlers/exception.py(Line:99)	Invalid HTTP_HOST header: '18.213.182.163'. You may need to add '18.213.182.163' to ALLOWED_HOSTS.
+2023-06-27 12:52:07,191	[WARNING]	/home/app_admin/venv_private_diary/lib64/python3.8/site-packages/django/utils/log.py(Line:224)	Bad Request: /

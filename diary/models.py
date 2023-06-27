@@ -14,8 +14,8 @@ class Diary(models.Model):
     created_at = models.DateTimeField(verbose_name='作成日時', auto_now_add=True)
     updated_at = models.DateTimeField(verbose_name='更新日時', auto_now=True)
 
-    api_key = models.CharField(verbose_name='ChatGPTのAPI-key', max_length=40, null=False)
-    event = models.TextField(verbose_name='出来事', blank=True, null=True)
+    api_key = models.CharField(verbose_name='パスワード', max_length=40, null=False)
+    event = models.TextField(verbose_name='出来事', blank=True, null=False)
     # event2 = models.CharField(verbose_name='出来事2', max_length=40, blank=True, null=True)
     # event3 = models.CharField(verbose_name='出来事3', max_length=40, blank=True, null=True)
     # event4 = models.CharField(verbose_name='出来事4', max_length=40, blank=True, null=True)
